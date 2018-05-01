@@ -58,4 +58,5 @@
 .text {
   position: absolute;
   left: 700px;
+  top: 100px;
 }
