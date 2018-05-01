@@ -1,0 +1,12 @@
+#wrapperHeader{
+    position: relative;
+    background-image:url(images/header.png);
+}
+
+#header{
+    position: absolute;
+    top: 40px;
+    left: 940px
+
+
+}
